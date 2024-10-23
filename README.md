@@ -2,7 +2,7 @@
 - 👀 I’m interested in csgo
 - 🌱 I’m currently learning csharp
 - 💞️ I’m looking to collaborate on csgo teammates
-- 📫 How to reach me? On the interne
+- 📫 How to reach me? On the internet
 
 <!---
 BlueChocolate/BlueChocolate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
